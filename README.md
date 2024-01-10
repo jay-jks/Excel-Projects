@@ -4,8 +4,6 @@
 
 This repository highlights the projects on leveraging Excel for comprehensive data analysis, covering data cleaning, processing, analysis, dashboard creation, and concluding insights.
 
-## Project Overview
-
 ### Data Cleaning
 - Raw data is processed to handle missing values, duplicates, and formatting inconsistencies.
 - Cleaning procedures ensure a high-quality dataset for accurate analysis.
