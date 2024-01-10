@@ -1,4 +1,6 @@
-# Analysis using Excel
+<centre>
+# Excel Projects Overview: Gaining Valuable Perspectives on Data Management and Analysis.
+</centre>
 
 This repository highlights the projects on leveraging Excel for comprehensive data analysis, covering data cleaning, processing, analysis, dashboard creation, and concluding insights.
 
