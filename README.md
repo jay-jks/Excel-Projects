@@ -1,6 +1,6 @@
-# Store Analysis with Excel
+# Analysis using Excel
 
-Welcome to the Tara Enterprises Analysis project repository! This project focuses on leveraging Excel for comprehensive store data analysis, covering data cleaning, processing, analysis, dashboard creation, and concluding insights.
+This repository highlights the projects on leveraging Excel for comprehensive data analysis, covering data cleaning, processing, analysis, dashboard creation, and concluding insights.
 
 ## Project Overview
 
